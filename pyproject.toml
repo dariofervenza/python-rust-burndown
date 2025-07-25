@@ -1,0 +1,10 @@
+[project]
+name = "python-rust"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "maturin>=1.9.1",
+    "pandas>=2.3.1",
+]
