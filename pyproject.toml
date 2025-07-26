@@ -5,6 +5,9 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.3",
     "maturin>=1.9.1",
     "pandas>=2.3.1",
+    "plotly>=6.2.0",
 ]
